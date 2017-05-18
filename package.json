@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "Example of websocket with node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "chat"
+  ],
+  "author": "Rodney Espinoza",
+  "license": "MIT"
+}
